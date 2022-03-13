@@ -35,7 +35,7 @@ export default function Home() {
                             <div className="d-flex align-items-center">
                                 {/* <!-- Mega menu --> */}
                                 <div className="dropdown mega-menu d-none d-md-block">
-                                    <a href="landing.v2.html#" className="btn dropdown-toggle mr-3" id="dropdownMegaMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mega Menu</a>
+                                    <a href="landing.v2.html#" className="btn dropdown-toggle mr-3" id="dropdownMegaMenuButton" data-toggle="dropdown" aria-expanded="false">Mega Menu</a>
                                     <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                         <div className="row m-0">
                                             <div className="col-md-4 p-4 bg-img">
@@ -192,10 +192,10 @@ export default function Home() {
                                         </ul>
                                     </div>
                                     <div className="intro-nine-Buttons">
-                                        <a name="" id="" href="/sessions/signin" className="btn half-button btn-outline-white btn-lg pl-5 pr-5 pb-2 mr-2 mb-4 text-uppercase" href="landing.v2.html#" role="button">
+                                        <a name="" id="" href="/sessions/signin" className="btn half-button btn-outline-white btn-lg pl-5 pr-5 pb-2 mr-2 mb-4 text-uppercase" role="button">
                                             Sign in
                                         </a>
-                                        <a id="" href="/sessions/signup" className="btn half-button btn-warning btn-lg pl-5 pr-5 pb-2 mb-4 text-uppercase" href="landing.v2.html#" role="button">
+                                        <a id="" href="/sessions/signup" className="btn half-button btn-warning btn-lg pl-5 pr-5 pb-2 mb-4 text-uppercase"role="button">
                                             Sign up
                                         </a>
 
@@ -519,8 +519,6 @@ export default function Home() {
                                             <h5 className="card-title font-weight-bold">Work one</h5>
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
-                                                of
-                                                the card's content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
@@ -541,7 +539,7 @@ export default function Home() {
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
                                                 of
-                                                the card's content.
+                                                the card content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
@@ -562,7 +560,7 @@ export default function Home() {
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
                                                 of
-                                                the card's content.
+                                                the card content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
@@ -583,7 +581,7 @@ export default function Home() {
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
                                                 of
-                                                the card's content.
+                                                the card content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
@@ -604,7 +602,7 @@ export default function Home() {
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
                                                 of
-                                                the card's content.
+                                                the card content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
@@ -625,7 +623,7 @@ export default function Home() {
                                             <p className="card-text">
                                                 Some quick example text to build on the card title and make up the bulk
                                                 of
-                                                the card's content.
+                                                the card content.
                                             </p>
                                         </div>
                                         <div className="card-footer pl-3">
