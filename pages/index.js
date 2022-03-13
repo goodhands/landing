@@ -291,7 +291,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/service1.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/service1.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service one
@@ -316,7 +316,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services14.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services14.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service two
@@ -341,7 +341,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services15.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services15.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service
@@ -367,7 +367,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services16.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services16.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service four
@@ -392,7 +392,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services9.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services9.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service five
@@ -417,7 +417,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services6.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services6.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service six
@@ -442,7 +442,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services10.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services10.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service
@@ -468,7 +468,7 @@ export default function Home() {
                                         <div className="service-wrap">
                                             <div className="card o-hidden mb-4">
                                                 <div className="card-header p-0 text-left">
-                                                    <img className="img-responsive" src="/images/landing/services/services5.svg" />
+                                                    <img className="img-responsive" src="/images/landing/services/services5.svg" alt="" />
                                                 </div>
                                                 <div className="card-body text-left">
                                                     <h3 className="card-title text-capitalize font-weight-bold">Service
